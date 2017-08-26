@@ -128,6 +128,7 @@ namespace CSharpBasic
             textSize.Text = sizeof(decimal).ToString();
             textMinimum.Text = decimal.MinValue.ToString();
             textMaximum.Text = decimal.MaxValue.ToString();
-        }
+        } //finish
+
     }
 }
